@@ -1,0 +1,33 @@
+body {
+    background: url(https://storge.pic2.me/c/1360x800/472/5286da1a69b67.jpg );
+   
+    
+   
+
+}
+#btn {
+    width: 200px;
+    height: 50px;
+    
+    font-size: 20px;
+    border-radius: 7px;
+    color: rgb(240, 242, 245);
+    margin-top: 14px;
+    background: none;
+    border-color: rgb(240, 242, 245);
+    
+    
+
+}
+#searchGiphy {
+    width: 300px;
+    height: 50px;
+font-size: 15px;
+border-radius: 7px;
+background: none;
+border-color: rgb(240, 242, 245);
+
+
+
+
+}
